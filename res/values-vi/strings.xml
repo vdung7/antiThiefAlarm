@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chuông báo động</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="togglePlugin">Báo động khi bị rút sạc</string>
+    <string name="toggleMoving">Báo động khi điện thoại (tablet) bị di chuyển</string>
+    <string name="button_stop">Tắt chuông</string>
+    <string name="about">Thông tin</string>
+    <string name="reset_pin">Thiết lập lại mã PIN</string>
+    <string name="enter_pin">Nhập mã PIN</string>
+    <string name="old_pin">Nhập mã PIN cũ</string>
+    <string name="new_pin">Nhập mã PIN mới</string>
+    <string name="confirm_pin">Nhập lại mã PIN mới</string>
+    <string name="btn_ok">Đồng ý</string>
+	
+    <!-- Error messages -->
+    <string name="invalid_pin">Mã PIN không hợp lệ</string>
+    <string name="unmatch_pin">2 mã PIN không khớp</string>
+    
+    <!-- about -->
+    <string name="aboutAppName">Chuông Báo Động</string>
+    <string name="aboutContact">        Phát triển bởi IUH.CyberSoft Team\n
+        Email liên hệ: vietdung.cybersoft@gmail.com</string>
+        
+     <!-- Github -->
+    <string name="github">Kho mã nguồn</string>
+    
+</resources>

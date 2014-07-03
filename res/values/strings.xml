@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Anti Thief Alarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="togglePlugin">Alert when charge is unplugged</string>
+    <string name="toggleMoving">Alert when phone/tablet is moved</string>
+    <string name="button_stop">Stop Alert</string>
+    <string name="about">About</string>
+    <string name="reset_pin">Reset your PIN</string>
+    <string name="enter_pin">Enter your PIN</string>
+    <string name="old_pin">Enter your old PIN</string>
+    <string name="new_pin">Enter your new PIN</string>
+    <string name="confirm_pin">Enter yout new PIN again</string>
+    <string name="btn_ok">OK</string>
+	
+    <!-- Error messages -->
+    <string name="invalid_pin">Your PIN is invalid</string>
+    <string name="unmatch_pin">Two PIN value is not match</string>
+    
+    <!-- about -->
+    <string name="aboutAppName">Anti Thief Alarm</string>
+    <string name="aboutContact">        Built and Developed by IUH.CyberSoft Team\n
+        Please contact email: vietdung.cybersoft@gmail.com</string>
+	
+    <!-- Github -->
+    <string name="github">Source code repository</string>
+</resources>
